@@ -15,8 +15,5 @@ The application would also provide customer support representatives with a tool 
 ## DB Instructions
 - For building a case study solution, the user for the customer service representative was created in DB itself. Thus, once migrated, create a user with group ampping named csr
 
-## Technical consult
-The solution was developed by Fakhruddin Ezzey. For any issues, please contact
-- Email: fakhruddinezzey358@gmail.com
-- Mobile Number: +91 6354023460
+
 
